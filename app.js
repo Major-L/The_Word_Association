@@ -23,13 +23,18 @@ const questions = [
         correct: 0
     },
     {
+	quiz: ['jesus', 'moses', 'elijah'],
+	options: ['scholars', 'prophets'],
+	correct: 1
+    },
+    {
         quiz: ['foreign', 'national', 'ethnic'],
         options: ['mad', 'exotic'],
         correct: 1
     },
     {
-        quiz: ['asaba', 'ikeja', 'gombe'],
-        options: ['edo', 'uyo'],
+        quiz: ['bloem', 'jhb', 'pta'],
+        options: ['rural', 'city'],
         correct: 1
     },
 ]
