@@ -23,6 +23,16 @@ const questions = [
         correct: 0
     },
     {
+	quiz: ['major1', 'emeritus', 'major_l'],
+	options: ['prophets', 'bishops'],
+	correct: 0
+    },
+    {
+	quiz: ['God', 'Jesus', 'Holy_Spirit'],
+	options: ['angels', 'trinity'],
+	correct: 1
+    },
+    {
 	quiz: ['jesus', 'moses', 'elijah'],
 	options: ['scholars', 'prophets'],
 	correct: 1
