@@ -21,6 +21,6 @@ In the Word Association Game, users are presented with a prompt word and are giv
 
 From a technical perspective, the game requires real-time processing of user inputs and the generation of new prompt words based on the user's responses. It also includes a scoring system that awards points to users for coming up with words that are related to the prompt word. Additionally, the game requires a user interface that is easy to use and navigate, and that can handle the incoming and outgoing data in real-time.
 
-## Story/Inpiration behind the project
+## Story/Inspiration behind the project
 Just as God had created the world with words, we as project engineers are believers in Christ Jesus and therefore believe in the creative abilities of words. Words have power to heal and give life to people. This is why we felt the need to touch peoples hearts through words.
 <img src="images/imagesM.jpeg" width="342" height="343" >
