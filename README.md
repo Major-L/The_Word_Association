@@ -15,7 +15,7 @@ The game can be played by any person of any age group
 ## Related products
 Theres various word games online that are similar to this one. Similare names are 'Words with Friends', 'Word Connect' and so much more.
 ## Licensing
-This game has no licensing retriction. Feel free to modify or add any code as you see fit to enhance it to your specification.
+This game has no licensing restriction. Feel free to modify or add any code as you see fit to enhance it to your specification.
 ## Technical details
 In the Word Association Game, users are presented with a prompt word and are given a short amount of time (usually five seconds) to come up with another word that is related to the prompt word. The game is designed to be fast-paced and interactive, and users are encouraged to use their own knowledge and creativity to come up with unique and interesting word associations.
 
