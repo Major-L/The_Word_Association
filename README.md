@@ -23,3 +23,4 @@ From a technical perspective, the game requires real-time processing of user inp
 
 ## Story/Inpiration behind the project
 Just as God had created the world with words, we as project engineers are believers in Christ Jesus and therefore believe in the creative abilities of words. Words have power to heal and give life to people. This is why we felt the need to touch peoples hearts through words.
+<img src="images/imagesM.jpeg" width="342" height="343" >
